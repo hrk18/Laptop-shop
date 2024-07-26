@@ -1,0 +1,24 @@
+
+	 	 	 	  Welcome To Hrk Laptop Shop
+	 		 Balkumari, Kathmandu | Contact: 9814848773 
+-------------------------------------------------------------------------------------------
+					 Laptop Buying Details 
+--------------------------------------------------------------------------------------------
+Company Name:Dell
+Contact: 9814848773
+Date and Time: 2023-05-12 09:27:27.707777
+
+-------------------------------------------------------------------------------------------
+Laptop Name  		 Brand   		 Quantity 		 Unit Price 		 Total
+-------------------------------------------------------------------------------------------
+Razer Blade   	      Razer    			5			   2000				$10000
+Alienware     	      Alienware			6			   1978				$11868
+-------------------------------------------------------------------------------------------
+
+Vat Amount:2842.84
+
+Total Amount: $24710.84		[Note: Total Amount include VAT Amount + Total]
+
+
+Thank you for shopping with us. Your support is greatly appreciated. !! 
+Please keep the receipt for your records 
